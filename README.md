@@ -7,6 +7,8 @@ Add the path to the folder that you want your files to be transferred to in "pat
 path to the main folder that contains those thousands of folders in "path" variable and in os.walk in line 5
 and finally mention the type of file present in those folders. For e.g. .jpg,.mp4,.mp3 etc
 
+Run this file from command-line or vscode or whichever IDE you prefer.
+
 Updates in this code to make it easier would be appreciated.
 
 Thank you.
